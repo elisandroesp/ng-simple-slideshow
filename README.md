@@ -6,7 +6,7 @@
      |___/            |_|
 ```
 
-## Note (09/2019):
+## Note (09/2019 -1):
 v1.3.0-beta.2 will be in beta until I update the way ng-packagr works. It is stable enough for production (it's what I am using with Angular Universal and Service Worker).
 
 Also, I am looking for maintainers who also using this package in a production app. I have this requirement because I need maintainers who have a vested interest in the quality of this package. Thanks.
